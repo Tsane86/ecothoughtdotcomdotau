@@ -1,0 +1,4 @@
+AuthType Basic  
+AuthName "restricted area"  
+AuthUserFile /var/www/vhosts/breakdesign.com.au/ecothought.com.au/vccc.htpasswd  
+require valid-user
